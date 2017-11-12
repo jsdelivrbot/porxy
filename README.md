@@ -98,3 +98,6 @@ operator-uri由上述[基本功能](#基本功能)抽象成的形如`protocol://
 
 # License
 [MIT](https://github.com/avwo/whistle/blob/master/LICENSE)
+
+[![Deploy to Heroku](http://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
